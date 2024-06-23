@@ -72,7 +72,7 @@ if (isset($_POST["Adicionar"])) {
 
 /*
 
-Quando ocorrer um POST, haverá um array $_POST nele estamos verificado se existe a chave "Adicionar"
+Quando ocorrer um POST, haverá um array $_POST nele estamos verificado se existe a chave "Editar"
 com a função isset() que verfica se um variável está definida.
 
 */
